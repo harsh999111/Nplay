@@ -11,7 +11,7 @@ const Hero = () => {
         <div className="container">
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4">
-              <div
+              {/* <div
                 className="hero-content wow fadeInUp mx-auto max-w-[780px] text-center"
                 data-wow-delay=".2s"
               >
@@ -198,7 +198,7 @@ const Hero = () => {
                     </Link>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="w-full px-4">
